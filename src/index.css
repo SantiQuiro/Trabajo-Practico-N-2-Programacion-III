@@ -1,0 +1,30 @@
+*{
+    
+    color: goldenrod;
+}
+#Fondo{
+background-color: black;
+}
+#B{
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 20px;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, .6);
+padding-bottom: 15px;
+
+}
+#city{
+    background-color: rgb(237, 237, 237);
+    transition: all 400ms ease-in-out;
+}
+#city:hover{
+    background-color: white;
+}
+#A{
+    border-radius: 13px;
+background-color: rgb(147, 50, 50);
+transition: all 400ms ease-in-out;
+}
+#A:hover{
+    background-color: rgb(249, 108, 73);
+}
